@@ -1,1 +1,7 @@
-mkdir to create directory
+CMD                                Purpose
+mkdir                           create directory
+cd                              Enter into Directory
+git init  			Initialize the git
+git add file_name	        Add file to stage area
+git commit file_name -m "message"  commit the file to commmit area. this will create a copy of your file and we can recover it at anytime.Initialize the git
+	
