@@ -9,6 +9,7 @@ git remote  add laxmidharrepo https://github.com/LaxmidharMishra/git_fundamental
 git push --set-upstream laxmidharrepo master set the remote branch as your upstream branch
 git fetch                       To see the commits of remote branch (if the local and remote are not in sync, we can use this to find the latest commit in remote)
 git pull			To sync the remote repo with our local repo.
+gti pull = git fetch + git merge 
 
  
 	
